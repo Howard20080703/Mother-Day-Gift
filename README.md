@@ -1,3 +1,15 @@
+# 🌹母親節禮物
+
+### ⭐簡介
+- 介紹：以網站表格方式讓媽媽可以叫你做家事(?
+- 影片：https://www.youtube.com/watch?v=0FMrWpSw-iw
+- 載點：https://github.com/Howard20080703/Mother-Day-Gift
+- 語言：:html5: Html
+- 
+### 🔥特色
+- 可自訂Discord Webhook
+- 可自訂選項
+
 # 嗨！👋 我是靈魂鯊
 
 <p align="center">
@@ -77,3 +89,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howard20080703&layout=compact&theme=dracula">
 </p>
+
+---
+
+© 2024 Soul Shark. All Rights Reserved. ©️靈魂鯊 版權所有
