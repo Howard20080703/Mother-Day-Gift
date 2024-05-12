@@ -53,7 +53,7 @@
 
 ---
 
-# Hi there! 👋 I'm Soul Shark
+# Hi there! 👋 I'm Soul Shark🦈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Soul%20Shark-Youtube-FF0000.svg?logo=youtube&style=for-the-badge">
