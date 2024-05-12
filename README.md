@@ -1,21 +1,16 @@
-# 🌹 母親節禮物
+# 🌹母親節禮物
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+### ⭐簡介
+- 介紹：以網站表格方式讓媽媽可以叫你做家事(?
+- 影片：https://www.youtube.com/watch?v=0FMrWpSw-iw
+- 載點：https://github.com/Howard20080703/Mother-Day-Gift
+- 語言：Html5
 
-## ⭐ 簡介
-<p align="center">
-  介紹：以網站表格方式讓媽媽可以叫你做家事(?
-  <br>影片：<a href="https://www.youtube.com/watch?v=0FMrWpSw-iw" target="_blank">https://www.youtube.com/watch?v=0FMrWpSw-iw</a>
-  <br>載點：<a href="https://github.com/Howard20080703/Mother-Day-Gift" target="_blank">https://github.com/Howard20080703/Mother-Day-Gift</a>
-</p>
+### 🔥特色
+- 可自訂Discord Webhook
+- 可自訂選項
 
-## 🔥 特色
-<p align="center">
-  可自訂 Discord Webhook
-  <br>可自訂選項
-</p>
+---
 
 # 嗨！👋 我是靈魂鯊
 
