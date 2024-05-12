@@ -12,7 +12,7 @@
 
 ---
 
-# 嗨！👋 我是靈魂鯊
+# 嗨！👋 我是靈魂鯊🦈
 
 <p align="center">
   <img src="https://img.shields.io/badge/靈魂鯊-Youtube-FF0000.svg?logo=youtube&style=for-the-badge">
