@@ -4,7 +4,10 @@
 - 介紹：以網站表格方式讓媽媽可以叫你做家事(?
 - 影片：https://www.youtube.com/watch?v=0FMrWpSw-iw
 - 載點：https://github.com/Howard20080703/Mother-Day-Gift
-- 語言：:html5: Html
+- 語言：<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</a>
+
 - 
 ### 🔥特色
 - 可自訂Discord Webhook
